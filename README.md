@@ -22,6 +22,8 @@ N.B : Il y aura surement plusieurs fichiers python qui représentent des varian
 
 \- gestion des doublons : Soit l’algorithme liste simplement les meilleurs dans chaque catégorie, soit il va automatiquement éliminer les vainqueurs des meilleurs prix dans la compétition des prix moins important.
 
+J'ajouterais aussi le jeu de donnée de l'année précedente avec les gagnants de chaque catégorie afin que vous puissiez vérifier que tout fonctionne correctement.
+
 ## Adapter les ressources 
 
 Pour adapter l’application, il faudra changer : 
